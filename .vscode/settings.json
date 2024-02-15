@@ -1,0 +1,10 @@
+{
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "gb.h": "c",
+    "stdio.h": "c",
+    "font.h": "c",
+    "Export.h": "c",
+    "platform.h": "c"
+  }
+}
